@@ -1,0 +1,102 @@
+.header_bg{
+	background-image: url('../image/ant-rozetsky-SLIFI67jv5k-unsplash.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:100%;
+}
+p.text{
+		font: 36px inter !important;
+}
+img.icon{
+		width: 15%;
+}
+body{
+	background:white;			
+	color: black; /* Цвет текста */
+	font: inter !important;
+	font-size: 3vw;
+}
+.white{
+	color: white !important;
+}
+div.size{
+	font-size: 20px;
+	text-align: right;
+}
+.title{
+	margin: 15% 0 0 1%;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	/*line-height: 140%;*/
+	font-size: 5vw;
+}
+.title_second{
+	margin:-1% 1% 0 0;
+	color: white;
+	text-transform: uppercase;
+	font-weight: medium;
+	font-size: 3vw;
+	text-align: right;
+}
+.footer{/*добавить колонки*/
+	background:black;
+	color: white;
+	font-size: 75%;
+}
+.foot_text{
+	font-size: 15px;
+	color: white;
+}
+.small_text{
+	font-size: 10px;
+	color: white;
+	font-weight: thin;
+}
+.small_text_b{
+	font-size: 10px;
+	color: black;
+	font-weight: thin;
+}
+.marg{
+	margin:15px;
+}
+a:hover {
+	opacity: 0.2;
+}
+.h3_right{
+	font-size: 2vw;
+	color: black;
+	text-transform: uppercase;
+	text-align: right;
+}
+.h3_left{
+	font-size: 2vw;
+	color: black;
+	text-transform: uppercase;
+	text-align: left;
+}
+.image{
+	height: 375px;
+	width: 300px
+	
+}
+
+.three_sides{
+	border: 1px solid grey;
+	border-right: 0;
+	padding: 10px;
+	margin:10px;
+	margin-right: 50px;
+}
+.black{
+	color: black;
+}
+.button_my{
+	background: black;
+	width: 180px;
+	height:50px;
+	color: aliceblue;
+	size: 12px;
+	text-align: center;
+}
